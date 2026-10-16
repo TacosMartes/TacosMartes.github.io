@@ -1,0 +1,19 @@
+{
+  "name": "Próximos",
+  "short_name": "Próximos",
+  "description": "Recordatorio de exámenes y tareas",
+  "lang": "es-ES",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F2F5FA",
+  "theme_color": "#3A5BFF",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

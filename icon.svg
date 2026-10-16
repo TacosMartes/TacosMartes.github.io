@@ -1,0 +1,10 @@
+<!-- Guarda este SVG como icon.svg (es escalable). Luego puedes generar PNG 192/512 si lo necesitas. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect rx="64" width="512" height="512" fill="#3A5BFF"/>
+  <g fill="#fff" transform="translate(70,120)">
+    <rect x="0" y="0" width="340" height="40" rx="8"/>
+    <rect x="0" y="70" width="260" height="36" rx="8"/>
+    <rect x="0" y="130" width="200" height="36" rx="8"/>
+    <circle cx="300" cy="20" r="28" fill="#FFD23F"/>
+  </g>
+</svg>
